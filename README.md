@@ -1,7 +1,7 @@
 # Email Phishing Incident Handling Project
 
 ## Overview
-This project demonstrates my **hands-on experience** with handling phishing email incidents. It showcases my ability to identify, analyze, contain, and eradicate phishing threats using **industry-standard tools** and **real-world practices**.
+This project demonstrates my **hands-on experience** with handling phishing email incidents. It showcases my ability to identify, analyze, contain, and eradicate phishing threats using **industry-standard tools** and **real-world practices** through **EC-Council Cybersecurity Coursework**.
 
 ## Tools Used:
 
