@@ -38,6 +38,9 @@ Here are some **screenshots** that showcase the process of analyzing a phishing 
 - **Netcraft URL Analysis**:
   ![Netcraft URL Analysis](./images/netcraft-analysis.png)
 
+   **PhishTank **:
+  !PhishTank](./images/PhishTank-analysis-screenshot.png )
+
 - **MxToolbox Email Header Analysis**:
   ![MxToolbox Email Header Analysis](./images/mx-toolbox-header.png)
 
